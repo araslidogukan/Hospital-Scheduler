@@ -1,3 +1,3 @@
 # Hospital-Scheduler
 
-An object oriented approach to schedule patients in matlab
+Designed 3 heuristics to schedule patients to a hospital efficiently
